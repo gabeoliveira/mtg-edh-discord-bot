@@ -1,0 +1,1034 @@
+npm WARN edh-bot@1.0.0 No repository field.
+
+added 17 packages from 21 contributors and audited 17 packages in 1.299s
+
+1 package is looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+kaalia+of+the+vast+
+[ 'B', 'R', 'W' ]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+⚫
+⚫🔴
+⚫🔴⚪
+kaalia+of+the+vast+
+[ 'B', 'R', 'W' ]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+⚫
+⚫🔴
+⚫🔴⚪
+⚫
+⚫🔴
+⚫🔴⚪
+kaalia+of+the+vast+
+[ 'B', 'R', 'W' ]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+⚫
+⚫🔴
+⚫🔴⚪
+zaxara+the+exemplary+
+[ 'B', 'G', 'U' ]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+⚫
+⚫🔴
+⚫🔴⚪
+⚫
+⚫🟢
+⚫🟢🔵
+UserManager {
+  cacheType: [Function: Collection],
+  cache: Collection [Map] {
+    '839656034892251167' => ClientUser {
+      id: '839656034892251167',
+      system: null,
+      locale: 'en-US',
+      flags: [UserFlags],
+      username: 'EDH',
+      bot: true,
+      discriminator: '4092',
+      avatar: '037a107a610dd32f96c229310af169d2',
+      lastMessageID: '839965157475483669',
+      lastMessageChannelID: '812708246077833261',
+      verified: true,
+      mfaEnabled: false,
+      _typing: Map {}
+    },
+    '688114127998287948' => User {
+      id: '688114127998287948',
+      system: false,
+      locale: null,
+      flags: [UserFlags],
+      username: 'Dassime',
+      bot: false,
+      discriminator: '1571',
+      avatar: '9593bc356e76089f358fb9bfb8c1f1bc',
+      lastMessageID: '839965198512160828',
+      lastMessageChannelID: '812708246077833261'
+    }
+  }
+}
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 44,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 44,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+⚫
+⚫🟢
+⚫🟢🔵
+⚫
+⚫🔴
+⚫🔴⚪
+zaxara+the+exemplary+
+[ 'B', 'G', 'U' ]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+⚫
+⚫🟢
+⚫🟢🔵
+syr+gwyn+
+[ 'B', 'R', 'W' ]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+⚫
+⚫🟢
+⚫🟢🔵
+⚫
+⚫🔴
+⚫🔴⚪
+obuun+
+[ 'G', 'R', 'W' ]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'guilfera',
+    lifeTotal: 40,
+    colorIdentity: [ 'G', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+⚫
+⚫🟢
+⚫🟢🔵
+⚫
+⚫🔴
+⚫🔴⚪
+🟢
+🟢🔴
+🟢🔴⚪
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'guilfera',
+    lifeTotal: 40,
+    colorIdentity: [ 'G', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+⚫
+⚫🟢
+⚫🟢🔵
+⚫
+⚫🔴
+⚫🔴⚪
+🟢
+🟢🔴
+🟢🔴⚪
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 30,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'guilfera',
+    lifeTotal: 40,
+    colorIdentity: [ 'G', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 30,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'guilfera',
+    lifeTotal: 40,
+    colorIdentity: [ 'G', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+⚫
+⚫🟢
+⚫🟢🔵
+⚫
+⚫🔴
+⚫🔴⚪
+🟢
+🟢🔴
+🟢🔴⚪
+Damage not found
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 30,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'guilfera',
+    lifeTotal: 40,
+    colorIdentity: [ 'G', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 30,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'guilfera',
+    lifeTotal: 40,
+    colorIdentity: [ 'G', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+⚫
+⚫🟢
+⚫🟢🔵
+⚫
+⚫🔴
+⚫🔴⚪
+🟢
+🟢🔴
+🟢🔴⚪
+UserManager {
+  cacheType: [Function: Collection],
+  cache: Collection [Map] {
+    '839656034892251167' => ClientUser {
+      id: '839656034892251167',
+      system: null,
+      locale: 'en-US',
+      flags: [UserFlags],
+      username: 'EDH',
+      bot: true,
+      discriminator: '4092',
+      avatar: '037a107a610dd32f96c229310af169d2',
+      lastMessageID: '840388494249033738',
+      lastMessageChannelID: '521822795286446107',
+      verified: true,
+      mfaEnabled: false,
+      _typing: Map {}
+    },
+    '688114127998287948' => User {
+      id: '688114127998287948',
+      system: false,
+      locale: null,
+      flags: [UserFlags],
+      username: 'Dassime',
+      bot: false,
+      discriminator: '1571',
+      avatar: '9593bc356e76089f358fb9bfb8c1f1bc',
+      lastMessageID: '840388790677930045',
+      lastMessageChannelID: '521822795286446107'
+    },
+    '839676461937197057' => User {
+      id: '839676461937197057',
+      system: null,
+      locale: null,
+      flags: [UserFlags],
+      username: 'Dassime2',
+      bot: false,
+      discriminator: '0797',
+      avatar: null,
+      lastMessageID: '839977524570357811',
+      lastMessageChannelID: '812708246077833261'
+    },
+    '691136694539255820' => User {
+      id: '691136694539255820',
+      system: null,
+      locale: null,
+      flags: [UserFlags],
+      username: 'felipao_b',
+      bot: false,
+      discriminator: '9286',
+      avatar: '66a6d324fa7b254826d361001832c77c',
+      lastMessageID: '840388771845505034',
+      lastMessageChannelID: '521822795286446107'
+    },
+    '306191815038599170' => User {
+      id: '306191815038599170',
+      system: null,
+      locale: null,
+      flags: [UserFlags],
+      username: 'guilfera',
+      bot: false,
+      discriminator: '5792',
+      avatar: 'bef987b85f5d995ed0fb69373b1293a4',
+      lastMessageID: null,
+      lastMessageChannelID: null
+    },
+    '268547439714238465' => User {
+      id: '268547439714238465',
+      system: false,
+      locale: null,
+      flags: [UserFlags],
+      username: 'Scryfall',
+      bot: true,
+      discriminator: '0970',
+      avatar: '69d297c47fb65cba611e1d25180837b1',
+      lastMessageID: '840388772511219753',
+      lastMessageChannelID: '521822795286446107'
+    }
+  }
+}
+[
+  {
+    commanders: [ [Object] ],
+    username: 'guilfera',
+    lifeTotal: 40,
+    colorIdentity: [ 'G', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 4,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 30,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'guilfera',
+    lifeTotal: 40,
+    colorIdentity: [ 'G', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 4,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 30,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+🟢
+🟢🔴
+🟢🔴⚪
+⚫
+⚫🟢
+⚫🟢🔵
+⚫
+⚫🔴
+⚫🔴⚪
+[
+  {
+    commanders: [ [Object] ],
+    username: 'guilfera',
+    lifeTotal: 35,
+    colorIdentity: [ 'G', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 4,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 30,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'guilfera',
+    lifeTotal: 35,
+    colorIdentity: [ 'G', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 4,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 30,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+🟢
+🟢🔴
+🟢🔴⚪
+⚫
+⚫🟢
+⚫🟢🔵
+⚫
+⚫🔴
+⚫🔴⚪
+Damage not found
+[
+  {
+    commanders: [ [Object] ],
+    username: 'guilfera',
+    lifeTotal: 35,
+    colorIdentity: [ 'G', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 4,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 30,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'guilfera',
+    lifeTotal: 35,
+    colorIdentity: [ 'G', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 4,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 30,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+🟢
+🟢🔴
+🟢🔴⚪
+⚫
+⚫🟢
+⚫🟢🔵
+⚫
+⚫🔴
+⚫🔴⚪
+Found Damage
+[
+  {
+    commanders: [ [Object] ],
+    username: 'guilfera',
+    lifeTotal: 35,
+    colorIdentity: [ 'G', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 4,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 30,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+🟢
+🟢🔴
+🟢🔴⚪
+⚫
+⚫🟢
+⚫🟢🔵
+⚫
+⚫🔴
+⚫🔴⚪
+[
+  {
+    commanders: [ [Object] ],
+    username: 'guilfera',
+    lifeTotal: 35,
+    colorIdentity: [ 'G', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 45,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 4,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 30,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'guilfera',
+    lifeTotal: 35,
+    colorIdentity: [ 'G', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 45,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 4,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 30,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+🟢
+🟢🔴
+🟢🔴⚪
+⚫
+⚫🟢
+⚫🟢🔵
+⚫
+⚫🔴
+⚫🔴⚪
+[
+  {
+    commanders: [ [Object] ],
+    username: 'guilfera',
+    lifeTotal: 35,
+    colorIdentity: [ 'G', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 51,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 4,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 30,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'guilfera',
+    lifeTotal: 35,
+    colorIdentity: [ 'G', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 51,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 4,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 30,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+🟢
+🟢🔴
+🟢🔴⚪
+⚫
+⚫🟢
+⚫🟢🔵
+⚫
+⚫🔴
+⚫🔴⚪
+[
+  {
+    commanders: [ [Object] ],
+    username: 'guilfera',
+    lifeTotal: 35,
+    colorIdentity: [ 'G', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 51,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 4,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 30,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+🟢
+🟢🔴
+🟢🔴⚪
+⚫
+⚫🟢
+⚫🟢🔵
+⚫
+⚫🔴
+⚫🔴⚪
+Found Damage
+[
+  {
+    commanders: [ [Object] ],
+    username: 'guilfera',
+    lifeTotal: 35,
+    colorIdentity: [ 'G', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 51,
+    colorIdentity: [ 'B', 'G', 'U' ],
+    poisonCounters: 4,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 30,
+    colorIdentity: [ 'B', 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+🟢
+🟢🔴
+🟢🔴⚪
+⚫
+⚫🟢
+⚫🟢🔵
+⚫
+⚫🔴
+⚫🔴⚪

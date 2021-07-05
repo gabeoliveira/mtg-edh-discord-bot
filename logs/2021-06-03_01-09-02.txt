@@ -1,0 +1,55 @@
+npm WARN edh-bot@1.0.0 No repository field.
+
+audited 31 packages in 0.531s
+
+2 packages are looking for funding
+  run `npm fund` for details
+
+found 1 moderate severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+Channel ID: 812708246077833261
+jhoira+
+(node:33) UnhandledPromiseRejectionWarning: Error: Request failed with status code 404
+    at createError (/home/minecraft/multicraft/servers/server188852/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/home/minecraft/multicraft/servers/server188852/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/home/minecraft/multicraft/servers/server188852/node_modules/axios/lib/adapters/http.js:260:11)
+    at IncomingMessage.emit (events.js:322:22)
+    at IncomingMessage.EventEmitter.emit (domain.js:482:12)
+    at endReadableNT (_stream_readable.js:1187:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+(node:33) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+(node:33) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Channel ID: 812708246077833261
+jhoira+of+the+ghitu+
+[ 'R', 'U' ]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'R', 'U' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+🔴
+🔴🔵
+Channel ID: 812708246077833261
+/home/minecraft/multicraft/servers/server188852/index.js:80
+        let commanderFound = player.commanders.find(commander => commander.name.toLowerCase().includes(args[0].toLowerCase()));
+                                    ^
+
+TypeError: Cannot read property 'commanders' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server188852/index.js:80:37)
+    at Client.emit (events.js:310:20)
+    at Client.EventEmitter.emit (domain.js:482:12)
+    at MessageCreateAction.handle (/home/minecraft/multicraft/servers/server188852/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/minecraft/multicraft/servers/server188852/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/minecraft/multicraft/servers/server188852/node_modules/discord.js/src/client/websocket/WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (/home/minecraft/multicraft/servers/server188852/node_modules/discord.js/src/client/websocket/WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (/home/minecraft/multicraft/servers/server188852/node_modules/discord.js/src/client/websocket/WebSocketShard.js:301:10)
+    at WebSocket.onMessage (/home/minecraft/multicraft/servers/server188852/node_modules/ws/lib/event-target.js:132:16)
+    at WebSocket.emit (events.js:310:20)

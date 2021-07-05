@@ -1,0 +1,19 @@
+{
+  "name": "edh-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot for playing EDH",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Gabriel Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.920.0",
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "twilio": "^3.64.0"
+  },
+  "nodeVersion": "12.16.3"
+}

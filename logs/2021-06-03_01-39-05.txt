@@ -1,0 +1,791 @@
+npm WARN edh-bot@1.0.0 No repository field.
+
+audited 31 packages in 0.693s
+
+2 packages are looking for funding
+  run `npm fund` for details
+
+found 1 moderate severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+Channel ID: 812708246077833261
+🔴
+🔴🔵
+Channel ID: 812708246077833261
+Channel ID: 812708246077833261
+Damage not found
+Channel ID: 521822795286446107
+Channel ID: 521822795286446107
+🔴
+Channel ID: 521822795286446107
+Channel ID: 521822795286446107
+🔴
+🔴⚪
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 20,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+(node:29) UnhandledPromiseRejectionWarning: Error: Request failed with status code 400
+    at createError (/home/minecraft/multicraft/servers/server188852/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/home/minecraft/multicraft/servers/server188852/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/home/minecraft/multicraft/servers/server188852/node_modules/axios/lib/adapters/http.js:260:11)
+    at IncomingMessage.emit (events.js:322:22)
+    at IncomingMessage.EventEmitter.emit (domain.js:482:12)
+    at endReadableNT (_stream_readable.js:1187:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+(node:29) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+(node:29) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Channel ID: 521822795286446107
+Channel ID: 521822795286446107
+🔴
+🔴⚪
+🟢
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 20,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 20,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+Channel ID: 521822795286446107
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 19,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 21,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 19,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 20,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 19,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 19,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 19,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 18,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 19,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 15,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 19,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 14,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 19,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 15,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 19,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 13,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 14,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 13,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 14,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 11,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 14,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 10,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 8,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 13,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 8,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 11,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 8,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 9,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 8,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 7,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 8,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 4,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 5,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 7,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 5,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 5,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+Channel ID: 521822795286446107
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 2,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 10,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+Channel ID: 521822795286446107
+Channel ID: 521822795286446107
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 20,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 17,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 20,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 14,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 20,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 13,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 20,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 12,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 20,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 9,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 17,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 9,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 11,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 9,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 11,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 3,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Motumbo',
+    lifeTotal: 5,
+    colorIdentity: [ 'G' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  },
+  {
+    commanders: [ [Object] ],
+    username: 'felipao_b',
+    lifeTotal: 3,
+    colorIdentity: [ 'R', 'W' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+Channel ID: 521822795286446107
+Channel ID: 521822795286446107
+Channel ID: 521822795286446107
+🟢

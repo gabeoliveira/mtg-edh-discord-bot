@@ -1,0 +1,39 @@
+npm WARN edh-bot@1.0.0 No repository field.
+
+audited 31 packages in 0.514s
+
+2 packages are looking for funding
+  run `npm fund` for details
+
+found 1 moderate severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+Channel ID: 812708246077833261
+(node:29) UnhandledPromiseRejectionWarning: ReferenceError: data is not defined
+    at scryfallRequest (/home/minecraft/multicraft/servers/server188852/index.js:397:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:29) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:29) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Unable to query. Error: {
+  "message": "Missing credentials in config, if using AWS_CONFIG_FILE, set AWS_SDK_LOAD_CONFIG=1",
+  "code": "CredentialsError",
+  "time": "2021-06-03T01:31:53.113Z",
+  "retryable": true,
+  "originalError": {
+    "message": "Could not load credentials from any providers",
+    "code": "CredentialsError",
+    "time": "2021-06-03T01:31:53.113Z",
+    "retryable": true,
+    "originalError": {
+      "message": "EC2 Metadata roleName request returned error",
+      "code": "TimeoutError",
+      "time": "2021-06-03T01:31:53.112Z",
+      "retryable": true,
+      "originalError": {
+        "message": "Socket timed out without establishing a connection",
+        "code": "TimeoutError",
+        "time": "2021-06-03T01:31:53.112Z",
+        "retryable": true
+      }
+    }
+  }
+}

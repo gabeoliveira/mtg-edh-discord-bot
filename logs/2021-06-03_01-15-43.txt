@@ -1,0 +1,69 @@
+npm WARN edh-bot@1.0.0 No repository field.
+
+audited 31 packages in 0.533s
+
+2 packages are looking for funding
+  run `npm fund` for details
+
+found 1 moderate severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+Channel ID: 812708246077833261
+jhoira+of+the+ghitu+
+[ 'R', 'U' ]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'R', 'U' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+🔴
+🔴🔵
+Channel ID: 812708246077833261
+TypeError: Cannot read property 'commanders' of undefined
+    at Client.<anonymous> (/home/minecraft/multicraft/servers/server188852/index.js:82:41)
+    at Client.emit (events.js:310:20)
+    at Client.EventEmitter.emit (domain.js:482:12)
+    at MessageCreateAction.handle (/home/minecraft/multicraft/servers/server188852/node_modules/discord.js/src/client/actions/MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/minecraft/multicraft/servers/server188852/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/minecraft/multicraft/servers/server188852/node_modules/discord.js/src/client/websocket/WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (/home/minecraft/multicraft/servers/server188852/node_modules/discord.js/src/client/websocket/WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (/home/minecraft/multicraft/servers/server188852/node_modules/discord.js/src/client/websocket/WebSocketShard.js:301:10)
+    at WebSocket.onMessage (/home/minecraft/multicraft/servers/server188852/node_modules/ws/lib/event-target.js:132:16)
+    at WebSocket.emit (events.js:310:20)
+Channel ID: 812708246077833261
+Damage not found
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'R', 'U' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 37,
+    colorIdentity: [ 'R', 'U' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false,
+    isActive: true
+  }
+]
+🔴
+🔴🔵

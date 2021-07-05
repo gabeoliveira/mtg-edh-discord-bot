@@ -1,0 +1,70 @@
+npm WARN edh-bot@1.0.0 No repository field.
+
+audited 17 packages in 0.458s
+
+1 package is looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+nekusar+
+[ 'B', 'R', 'U' ]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'R', 'U' ],
+    poisonCounters: 0,
+    commanderDamage: [],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+⚫
+⚫🔴
+⚫🔴🔵
+Damage not found
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'R', 'U' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 36,
+    colorIdentity: [ 'B', 'R', 'U' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+⚫
+⚫🔴
+⚫🔴🔵
+Found Damage
+[
+  {
+    commanders: [ [Object] ],
+    username: 'Dassime',
+    lifeTotal: 40,
+    colorIdentity: [ 'B', 'R', 'U' ],
+    poisonCounters: 0,
+    commanderDamage: [ [Object] ],
+    cityBlessing: false,
+    monarch: false
+  }
+]
+⚫
+⚫🔴
+⚫🔴🔵

@@ -1,0 +1,9 @@
+npm WARN edh-bot@1.0.0 No repository field.
+
+audited 31 packages in 0.465s
+
+2 packages are looking for funding
+  run `npm fund` for details
+
+found 1 moderate severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
