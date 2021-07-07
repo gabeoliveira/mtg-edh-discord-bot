@@ -99,7 +99,7 @@ client.on("message", async function(message) {
             gameOverview(message,data.players);
         }
 
-        else if (command === "commdamage") {
+        else if (command === "commdamage" || command === "cd") {
 
             if(!args[1]) return;    //ignores the command if there's no damage
 
@@ -276,7 +276,7 @@ client.on("message", async function(message) {
 
             twilioClient.sync.services(syncService)
             .documents
-            .create({uniqueName: channelId, data: {gameStarted: false, counter: 0}, ttl: 86400})
+            .create({uniqueName: channelId, data: {gameStarted: false}, ttl: 86400})
             .then(document => console.log(document.sid))
             .catch(err => { 
                 if(err.status === 409){
@@ -422,11 +422,15 @@ const scryfallRequest = async function(query,message,data,channelId){
 
             let commanderCard = resp.data;
 
+            console.log(commanderCard);
+
             let commanderObj = {
+                id: commanderCard.id + message.author.username,
                 name: commanderCard.name,
                 text: commanderCard.oracle_text,
                 manaCost: commanderCard.mana_cost,
-                colorIdentity: commanderCard.color_identity
+                colorIdentity: commanderCard.color_identity,
+                imageUrl: commanderCard.image_uris.border_crop
             }
 
             commanderList.push(commanderObj);
